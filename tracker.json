@@ -1,0 +1,58 @@
+[
+    {
+        "id": "2024",
+        "amount": {
+            "Expense": 100,
+            "Balance": 500,
+            "Income": 0
+        }
+    },
+    {
+        "id": "2024-07-28 20:04:52",
+        "amount": {
+            "Income": 600,
+            "Expense": 100,
+            "Balance": 1000
+        }
+    },
+    {
+        "id": "2024-07-28 20:05:18",
+        "amount": {
+            "Income": 600,
+            "Expense": 100,
+            "Balance": 1500
+        }
+    },
+    {
+        "id": "2024-07-28 20:05:30",
+        "amount": {
+            "Income": 600,
+            "Expense": 100,
+            "Balance": 2000
+        }
+    },
+    {
+        "id": "2024-07-28 20:13:57",
+        "amount": {
+            "Income": 600,
+            "Expense": 100,
+            "Balance": 2500
+        }
+    },
+    {
+        "id": "2024-07-28 20:15:08",
+        "amount": {
+            "Income": 600,
+            "Expense": 200,
+            "Balance": 2400
+        }
+    },
+    {
+        "id": "2024-07-28 20:15:19",
+        "amount": {
+            "Income": 1100,
+            "Expense": 200,
+            "Balance": 2900
+        }
+    }
+]
